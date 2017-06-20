@@ -77,7 +77,7 @@
     "rttc": "9.3.3",
     "sails-disk": "~0.10.9",
     "sails-generate": "~0.13.0",
-    "sails-hook-orm": "~1.0.9",
+    "sails-hook-orm": "git+https://github.com/Crusader4Christ/sails-hook-orm.git#v1.0.10-2",
     "sails-hook-sockets": "^0.13.9",
     "sails-stringfile": "~0.3.2",
     "sails-util": "~0.11.0",
