@@ -85,7 +85,7 @@
     "request": "2.79.0",
     "root-require": "0.3.1",
     "sails-hook-orm": "^2.0.0-0",
-    "sails-hook-sockets": "^0.13.8",
+    "sails-hook-sockets": "^2.0.0",
     "sails.io.js": "^1.0.0",
     "session-file-store": "1.0.0",
     "should": "9.0.0",
